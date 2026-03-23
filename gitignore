@@ -1,0 +1,3 @@
+secrets.txt   #to comment 
+
+*.txt #all the text files will not commit
